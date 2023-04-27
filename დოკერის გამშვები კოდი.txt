@@ -1,0 +1,7 @@
+Image: level-up-ecommerce-app
+
+docker run -it --rm level-up-ecommerce-app 
+
+-------> გაშვებისას -it-ს დამატება დაგჭირდებათ სავარაუდოდ. 
+
+ამ ბრძანებით გაშვებამ docker run --rm level-up-ecommerce-app JAVA SCANNER-ზე დაარტყა ექსეფშენი.
