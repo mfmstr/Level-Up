@@ -106,7 +106,7 @@ public class Main {
 	                id = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 			
@@ -121,7 +121,7 @@ public class Main {
 	            	price = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 			
@@ -138,7 +138,7 @@ public class Main {
 	                id = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 
@@ -151,7 +151,7 @@ public class Main {
 	                balance = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 
@@ -164,7 +164,7 @@ public class Main {
 	                price = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 			
@@ -183,7 +183,7 @@ public class Main {
 	                id = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 
@@ -194,7 +194,7 @@ public class Main {
 	                balance = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 			
@@ -211,7 +211,7 @@ public class Main {
 	                id = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 
@@ -228,7 +228,7 @@ public class Main {
 	                id = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 
@@ -249,7 +249,7 @@ public class Main {
 	                id = Integer.parseInt(input);
 	                break;
 	            } catch (NumberFormatException e) {
-	                System.out.println("Invalid input. Please enter an integer ID.");
+	                System.out.println("Invalid input. Please enter an integer.");
 	            }
 	        }
 
